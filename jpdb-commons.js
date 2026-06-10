@@ -11,7 +11,7 @@ const REL_NAME   = "STUDENT-TABLE";
 const PK_FIELD   = "Roll-No";
 var   recNo      = "";   // stores record number for updates
 
-const token = "90935185|-31949239818757777|90958779";
+const token = "ENTER YOUUR TOKEN";
 
 function createGET_BY_KEY(dbName, relName, myKey, myValue) {
     return JSON.stringify({
